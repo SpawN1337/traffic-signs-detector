@@ -1,3 +1,3 @@
 ^PRODUCT=%{WORD:product_name}_%{DATA:product_version},%{YEAR:year} %{MONTH:month} %{MONTHDAY:day} %{TIME:time} %{HOSTNAME:hostname} %{LOGLEVEL:log_level} \(AlertOrigin=%{WORD:alert_origin}, AlertId=%{WORD:alert_id}\) %{DATA:message_text}$
-
+https://webinars.clickmeeting.com/275984678/?r=ZGN4A
 PRODUCT=Sentry_10.0.2_4,2025 Oct 9 10:00:01 eumobile5.akwel-automotive.com ALERT (AlertOrigin=Sentry, AlertId=ntpsyncsystem) ...
